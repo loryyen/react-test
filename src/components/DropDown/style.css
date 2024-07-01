@@ -1,0 +1,10 @@
+.Img {
+  width: 20px;
+  height: 20px;
+}
+
+.Dropdown {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
